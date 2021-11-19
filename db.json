@@ -1,0 +1,425 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "video": false,
+      "vote_average": 7.9,
+      "overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+      "id": 566525,
+      "vote_count": 3003,
+      "adult": false,
+      "backdrop_path": "/cinER0ESG0eJ49kXlExM0MEWGxW.jpg",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "release_date": "2021-09-01",
+      "original_language": "en",
+      "original_title": "Shang-Chi and the Legend of the Ten Rings",
+      "poster_path": "/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
+      "popularity": 9589.905,
+      "media_type": "movie"
+    },
+    {
+      "genre_ids": [
+        12,
+        28,
+        53
+      ],
+      "original_language": "en",
+      "original_title": "No Time to Die",
+      "poster_path": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "video": false,
+      "vote_average": 7.6,
+      "overview": "Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+      "id": 370172,
+      "vote_count": 1839,
+      "title": "No Time to Die",
+      "adult": false,
+      "backdrop_path": "/1953j0QEbtN17WFFTnJHIm6bn6I.jpg",
+      "release_date": "2021-09-29",
+      "popularity": 4689.436,
+      "media_type": "movie"
+    },
+    {
+      "backdrop_path": "/dK12GIdhGP6NPGFssK2Fh265jyr.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80,
+        53
+      ],
+      "original_language": "en",
+      "original_title": "Red Notice",
+      "poster_path": "/wdE6ewaKZHr62bLqCn7A2DiGShm.jpg",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 896,
+      "overview": "An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.",
+      "release_date": "2021-11-04",
+      "title": "Red Notice",
+      "id": 512195,
+      "adult": false,
+      "popularity": 2786.704,
+      "media_type": "movie"
+    },
+    {
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 438631,
+      "original_language": "en",
+      "original_title": "Dune",
+      "poster_path": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+      "video": false,
+      "vote_average": 8,
+      "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+      "release_date": "2021-09-15",
+      "vote_count": 4009,
+      "adult": false,
+      "backdrop_path": "/eeijXm3553xvuFbkPFkDG6CLCbQ.jpg",
+      "title": "Dune",
+      "popularity": 1724.475,
+      "media_type": "movie"
+    },
+    {
+      "video": false,
+      "vote_average": 8.2,
+      "overview": "On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator's beloved dog, learns about life, love, friendship, and what it means to be human.",
+      "release_date": "2021-11-04",
+      "title": "Finch",
+      "id": 522402,
+      "adult": false,
+      "backdrop_path": "/oE6bhqqVFyIECtBzqIuvh6JdaB5.jpg",
+      "genre_ids": [
+        878,
+        18,
+        12
+      ],
+      "vote_count": 962,
+      "original_language": "en",
+      "original_title": "Finch",
+      "poster_path": "/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg",
+      "popularity": 3377.933,
+      "media_type": "movie"
+    },
+    {
+      "title": "Venom: Let There Be Carnage",
+      "overview": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
+      "release_date": "2021-09-30",
+      "vote_count": 1968,
+      "adult": false,
+      "backdrop_path": "/70nxSw3mFBsGmtkvcs91PbjerwD.jpg",
+      "id": 580489,
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "vote_average": 6.8,
+      "original_language": "en",
+      "original_title": "Venom: Let There Be Carnage",
+      "poster_path": "/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg",
+      "video": false,
+      "popularity": 4512.912,
+      "media_type": "movie"
+    },
+    {
+      "backdrop_path": "/qw3J9cNeLioOLoR68WX7z79aCdK.jpg",
+      "genre_ids": [
+        10759,
+        9648,
+        18
+      ],
+      "original_language": "ko",
+      "first_air_date": "2021-09-17",
+      "vote_count": 8957,
+      "name": "Squid Game",
+      "vote_average": 7.8,
+      "poster_path": "/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
+      "id": 93405,
+      "original_name": "오징어 게임",
+      "origin_country": [
+        "KR"
+      ],
+      "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games—with high stakes. But, a tempting prize awaits the victor.",
+      "popularity": 1764.998,
+      "media_type": "tv"
+    },
+    {
+      "overview": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.",
+      "release_date": "2021-11-03",
+      "adult": false,
+      "backdrop_path": "/lyvszvJJqqI8aqBJ70XzdCNoK0y.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "vote_count": 1016,
+      "id": 524434,
+      "original_title": "Eternals",
+      "poster_path": "/6AdXwFTRTAzggD2QUTt5B7JFGKL.jpg",
+      "title": "Eternals",
+      "video": false,
+      "vote_average": 7.1,
+      "original_language": "en",
+      "popularity": 1946.029,
+      "media_type": "movie"
+    },
+    {
+      "vote_average": 8.9,
+      "overview": "10 years after Dexter went missing in the eye of Hurricane Laura, we find him living under an assumed name in the small town of Iron Lake, New York.  Dexter may be embracing his new life, but in the wake of unexpected events in this close-knit community, his Dark Passenger beckons.",
+      "vote_count": 156,
+      "original_language": "en",
+      "name": "Dexter: New Blood",
+      "backdrop_path": "/e6v08948EZVvLrx0sWpmglguY9e.jpg",
+      "first_air_date": "2021-11-07",
+      "id": 131927,
+      "genre_ids": [
+        18,
+        80
+      ],
+      "original_name": "Dexter: New Blood",
+      "origin_country": [
+        "US"
+      ],
+      "poster_path": "/9EBKgrFIsCFSV1RZKWhYUdbtGiv.jpg",
+      "popularity": 1155.528,
+      "media_type": "tv"
+    },
+    {
+      "poster_path": "/8yIecXrjTo3uPBPBU2ovrIU6oOp.jpg",
+      "vote_average": 9.2,
+      "id": 94605,
+      "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+      "vote_count": 569,
+      "first_air_date": "2021-11-06",
+      "origin_country": [
+        "US"
+      ],
+      "backdrop_path": "/rkB4LyZHo1NHXFEDHl9vSD9r1lI.jpg",
+      "original_name": "Arcane",
+      "genre_ids": [
+        16,
+        10765,
+        10759
+      ],
+      "name": "Arcane",
+      "original_language": "en",
+      "popularity": 1657.968,
+      "media_type": "tv"
+    },
+    {
+      "vote_average": 5.7,
+      "overview": "After being left at home by himself for the holidays, 10-year-old Max Mercer must work to defend his home from a married couple who tries to steal back a valuable heirloom.",
+      "release_date": "2021-11-12",
+      "adult": false,
+      "backdrop_path": "/a8tH0jl37366bLVyPB08dncgqqd.jpg",
+      "vote_count": 121,
+      "genre_ids": [
+        10751,
+        35
+      ],
+      "id": 654974,
+      "original_language": "en",
+      "original_title": "Home Sweet Home Alone",
+      "poster_path": "/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg",
+      "title": "Home Sweet Home Alone",
+      "video": false,
+      "popularity": 766.977,
+      "media_type": "movie"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vK18znei8Uha2z7ZhZtBa40HIrm.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 634649,
+      "original_language": "en",
+      "original_title": "Spider-Man: No Way Home",
+      "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a Super Hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+      "poster_path": "/1gxZrx9gL9ov2c1NpXimEUzMTmh.jpg",
+      "release_date": "2021-12-15",
+      "title": "Spider-Man: No Way Home",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "popularity": 1518.741,
+      "media_type": "movie"
+    },
+    {
+      "title": "Army of Thieves",
+      "adult": false,
+      "backdrop_path": "/mu8RKavbv7Ml48twHQ6XVk7zw8e.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "original_language": "en",
+      "original_title": "Army of Thieves",
+      "poster_path": "/5YCg0PFnGxDKb24Lmhxz8p4Q8j1.jpg",
+      "vote_count": 701,
+      "video": false,
+      "vote_average": 7,
+      "id": 796499,
+      "overview": "A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves on a top-secret heist during the early stages of the zombie apocalypse.",
+      "release_date": "2021-10-27",
+      "popularity": 1801.254,
+      "media_type": "movie"
+    },
+    {
+      "id": 576845,
+      "adult": false,
+      "backdrop_path": "/nZP1rGsOh3G2HbYfRqO58zg0V4Y.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "vote_count": 289,
+      "original_language": "en",
+      "original_title": "Last Night in Soho",
+      "poster_path": "/5iGVofFc0mCr8aJYsVICm42ThIu.jpg",
+      "title": "Last Night in Soho",
+      "video": false,
+      "vote_average": 7.5,
+      "release_date": "2021-10-21",
+      "overview": "A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.",
+      "popularity": 127.522,
+      "media_type": "movie"
+    },
+    {
+      "poster_path": "/su9WzL7lwUZPhjH6eZByAYFx2US.jpg",
+      "video": false,
+      "vote_average": 6.7,
+      "overview": "Gunning for revenge, outlaw Nat Love saddles up with his gang to take down enemy Rufus Buck, a ruthless crime boss who just got sprung from prison.",
+      "release_date": "2021-10-22",
+      "vote_count": 300,
+      "adult": false,
+      "backdrop_path": "/d0mpUFKzoPwF1KsdjHpkkaYSvKm.jpg",
+      "title": "The Harder They Fall",
+      "genre_ids": [
+        37
+      ],
+      "id": 618162,
+      "original_language": "en",
+      "original_title": "The Harder They Fall",
+      "popularity": 1770.032,
+      "media_type": "movie"
+    },
+    {
+      "title": "Clifford the Big Red Dog",
+      "adult": false,
+      "backdrop_path": "/zBkHCpLmHjW2uVURs5uZkaVmgKR.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "original_language": "en",
+      "original_title": "Clifford the Big Red Dog",
+      "poster_path": "/ygPTrycbMSFDc5zUpy4K5ZZtQSC.jpg",
+      "vote_count": 133,
+      "id": 585245,
+      "vote_average": 8,
+      "video": false,
+      "overview": "As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.",
+      "release_date": "2021-11-10",
+      "popularity": 2659.339,
+      "media_type": "movie"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4vCh8R4yd6ybOmbxRAPOzaXmLTV.jpg",
+      "id": 744275,
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "original_language": "en",
+      "original_title": "After We Fell",
+      "poster_path": "/y0BBwpk5IIVbV655mfeR7kCNYhb.jpg",
+      "vote_count": 872,
+      "video": false,
+      "vote_average": 7.3,
+      "title": "After We Fell",
+      "overview": "Just as Tessa's life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she's been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.",
+      "release_date": "2021-09-01",
+      "popularity": 1879.619,
+      "media_type": "movie"
+    },
+    {
+      "backdrop_path": "/8Y43POKjjKDGI9MH89NW0NAzzp8.jpg",
+      "genre_ids": [
+        35,
+        28,
+        12,
+        878
+      ],
+      "original_language": "en",
+      "original_title": "Free Guy",
+      "poster_path": "/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 3691,
+      "overview": "A bank teller called Guy realizes he is a background character in an open world video game called Free City that will soon go offline.",
+      "release_date": "2021-08-11",
+      "title": "Free Guy",
+      "id": 550988,
+      "adult": false,
+      "popularity": 1515.836,
+      "media_type": "movie"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fFDUSpJdLZ08vuPv8uDezcDKSnL.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 610253,
+      "original_language": "en",
+      "original_title": "Halloween Kills",
+      "overview": "Minutes after Laurie Strode, her daughter Karen and granddaughter Allyson left masked monster Michael Myers caged and burning in Laurie's basement, Laurie is rushed to the hospital with life-threatening injuries, believing she finally killed her lifelong tormentor. But when Michael manages to free himself from Laurie's trap, his ritual bloodbath resumes. As Laurie fights her pain and prepares to defend herself against him, she inspires all of Haddonfield to rise up against their unstoppable monster. The Strode women join a group of other survivors of Michael's first rampage who decide to take matters into their own hands, forming a vigilante mob that sets out to hunt Michael down, once and for all.",
+      "poster_path": "/qmJGd5IfURq8iPQ9KF3les47vFS.jpg",
+      "release_date": "2021-10-14",
+      "title": "Halloween Kills",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 1226,
+      "popularity": 744.494,
+      "media_type": "movie"
+    },
+    {
+      "backdrop_path": "/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
+      "id": 497698,
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "original_language": "en",
+      "original_title": "Black Widow",
+      "poster_path": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "video": false,
+      "vote_average": 7.6,
+      "overview": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+      "release_date": "2021-07-07",
+      "vote_count": 5963,
+      "title": "Black Widow",
+      "adult": false,
+      "popularity": 639.778,
+      "media_type": "movie"
+    }
+  ],
+  "total_pages": 1000,
+  "total_results": 20000
+}
